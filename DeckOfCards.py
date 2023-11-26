@@ -33,8 +33,8 @@ class Deck:
 #Code below
 
  
-print("Welcome to the Card Dealer")
-print("\nI have shuffled a deck of 52 cards.")
+print("Welcome to the Card Dealer!")
+print("\nI have shuffled a deck of 52 cards. Let's begin!")
 
 deck = Deck()
 
